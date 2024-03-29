@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/ServiceDiscovery/pom.xml" />
+        <option value="$PROJECT_DIR$/CAU_1_SubjecService/pom.xml" />
       </list>
     </option>
     <option name="workspaceImportForciblyTurnedOn" value="true" />
